@@ -1,1 +1,2 @@
 # ejercitacion 
+Hola, Estamos practicando todo el tema de Git.
